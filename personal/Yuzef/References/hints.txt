@@ -1,0 +1,39 @@
+Naming files conventions:
+Aim for readability
+Keep some form of consistency
+
+
+Types of naming 
+-> Snake_case
+	Basic_boring_soulless_choice
+-> CamelCase
+	ASentenceOutOfThatManyWordsSpelledLikeThisIsJustNotReadable
+-> Spaces -- A bad idea
+	Harder to work with the files and directories in the command line
+-> kebab-case That is the one
+	looks-the-most-fancy-and-about-as-readable-as-spaces-method
+
+
+Probably use kebab-case for naming files and packages, and whatever else you are developing or saving
+and use snake_case for for variables and functions in most languages
+except for Haskell, where camelCase is very popular, and seems pretty conventional
+
+Leave the spaces to human languages
+
+
+AVOID SPECIAL CHARACTERS
+
+
+Use dates when creating an important file
+
+
+--Learn a language, then go read a book on it
+
+-- GODOT for the codeblocks clone
+
+V programming language
+
+Linux kernel
+
+
+cph
